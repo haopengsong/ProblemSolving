@@ -6,4 +6,5 @@ def reverseLeftKcharToTheEnd(s, k):
 
 x = input()
 y = input()
+
 print(reverseLeftKcharToTheEnd(str(x),int(y)))
